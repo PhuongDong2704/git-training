@@ -1,1 +1,2 @@
-Xin chào từ main
+Xin chào từ main và feature-info
+
