@@ -1,2 +1,2 @@
-Xin chào từ feature-info
+Xin chào từ main và feature-info
 
